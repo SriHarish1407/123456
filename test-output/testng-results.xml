@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55" started-at="2021-07-07T01:55:33 IST" finished-at="2021-07-07T01:55:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55" started-at="2021-07-07T01:55:33 IST" finished-at="2021-07-07T01:55:33 IST">
+      <class name="com.TestNG_Programs.Parameter_Testng">
+        <test-method status="PASS" signature="password(java.lang.String)[pri:0, instance:com.TestNG_Programs.Parameter_Testng@66480dd7]" name="password" duration-ms="10" started-at="2021-07-07T01:55:33 IST" finished-at="2021-07-07T01:55:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="username(java.lang.String)[pri:0, instance:com.TestNG_Programs.Parameter_Testng@66480dd7]" name="username" duration-ms="1" started-at="2021-07-07T01:55:33 IST" finished-at="2021-07-07T01:55:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sharish]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+      </class> <!-- com.TestNG_Programs.Parameter_Testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
